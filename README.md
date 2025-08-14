@@ -1,5 +1,4 @@
-==============================
-           MOVIE APP CLONE
+MOVIE APP CLONE
 ==============================
 
 A responsive **Movie App** built with **React** and **Tailwind CSS**. This project allows users to **browse, search, and explore movies**, view movie details, and manage a personal watchlist.
